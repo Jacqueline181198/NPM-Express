@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Mi primer server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacqueline181198/NPM-Express.git"
+  },
+  "keywords": [
+    "Hola",
+    "mundo"
+  ],
+  "author": "Jacqueline Sarmiento Rosas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jacqueline181198/NPM-Express/issues"
+  },
+  "homepage": "https://github.com/Jacqueline181198/NPM-Express#readme"
+}
